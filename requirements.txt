@@ -1,0 +1,9 @@
+pyrogram==2.0.106
+tgcrypto==1.2.5
+motor==3.6.0
+pymongo==4.9.2
+dnspython==2.7.0
+aiohttp==3.10.10
+google-genai==1.2.0
+apscheduler==3.10.4
+python-dotenv==1.0.1
